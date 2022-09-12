@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mehul19356@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oUF1VQ9aY0AWG9pmwyc8eUpF3l7Xg9nh/view](https://drive.google.com/file/d/1oUF1VQ9aY0AWG9pmwyc8eUpF3l7Xg9nh/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xpH_ZhsRhWT2iyoJMVY78GQmxe9JrGfc/view?usp=sharing](https://drive.google.com/file/d/1xpH_ZhsRhWT2iyoJMVY78GQmxe9JrGfc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
