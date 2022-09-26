@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Databases and advanced Backend Technologies.**
 
-- 👨‍💻 Checkout Portfolio [https://mehul-portfolio-firstdraft.netlify.app/](https://mehulportfoliofinal1.netlify.app/)
+- 👨‍💻 Checkout Portfolio [(https://mehulportfoliofinal1.netlify.app/)](https://mehulportfoliofinal1.netlify.app/)
 
 - 💬 Ask me about **anything related to me and my career. I will be happy to help.**
 
 - 📫 How to reach me **mehul19356@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oUF1VQ9aY0AWG9pmwyc8eUpF3l7Xg9nh/view](https://drive.google.com/file/d/1oUF1VQ9aY0AWG9pmwyc8eUpF3l7Xg9nh/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-2V3jO364LmRSHhn-wGEZ4pen8_tQzEG/view]((https://drive.google.com/file/d/1-2V3jO364LmRSHhn-wGEZ4pen8_tQzEG/view))
 
 - If you like anything about me **consider buying me a coffee/burger.**
 
