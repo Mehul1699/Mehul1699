@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mehul19356@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-2V3jO364LmRSHhn-wGEZ4pen8_tQzEG/view]((https://drive.google.com/file/d/1-2V3jO364LmRSHhn-wGEZ4pen8_tQzEG/view))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oUF1VQ9aY0AWG9pmwyc8eUpF3l7Xg9nh/view](https://drive.google.com/file/d/1-2V3jO364LmRSHhn-wGEZ4pen8_tQzEG/view)
 
 - If you like anything about me **consider buying me a coffee/burger.**
 
