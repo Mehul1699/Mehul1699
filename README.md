@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Databases and advanced Backend Technologies.**
 
-- 👨‍💻 Checkout Portfolio [(https://mehulportfoliofinal1.netlify.app/)](https://mehulportfoliofinal1.netlify.app/)
+- 👨‍💻 Checkout Portfolio [(https://mehulportfoliog1.netlify.app/)](https://mehulportfoliog1.netlify.app/)
 
 - 💬 Ask me about **anything related to me and my career. I will be happy to help.**
 
