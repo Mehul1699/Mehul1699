@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehul, a Backend developer.</h1>
+<h1 align="center">Hi 👋, I'm Mehul Bagga, a Backend developer.</h1>
 <h3 align="center">A passionate Backend developer with a keen interest in knowledge of the core of Web Development. Highly adaptive Team Player proficient in working with multidisciplinary teams and working on goal oriented projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehul1699&label=Profile%20views&color=0e75b6&style=flat" alt="mehul1699" /> </p>
